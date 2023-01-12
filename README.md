@@ -14,8 +14,8 @@
   - 데이터 훑어보기
   - 시각화
   - [Combination of flags](#combination-of-flags)
-- [Create Model](#모델 생성)
-- [Compile Model](#모델 컴파일)
-- [Training Model](#모델 컴파일)
-- [Evaluate Model](#모델 컴파일)
-- [Save Model](#모델 컴파일)
+- [Create Model](#Create Model)
+- [Compile Model](#Create Compile)
+- [Training Model](#Training Model)
+- [Evaluate Model](#Evaluate Model)
+- [Save Model](#Save Model)
