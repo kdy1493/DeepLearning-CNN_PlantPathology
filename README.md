@@ -1,5 +1,5 @@
 # 미니 프로젝트3_PlantPathology(DeepLearning & CNN 활용)
-<img src="https://img.shields.io/badge/-Kaggle-#20BEFF?style=flat&logo=Python&logoColor=green"/>
+> Kaggle 경진대회 Plant Pathology 2020 - FGVC7
 # 팀원
 - 고석주
 - 남정우
