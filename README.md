@@ -17,6 +17,7 @@
   - 데이터 적재
 
 
+
 - [EDA](#EDA)
   - 데이터 훑어보기
   - 시각화
@@ -35,6 +36,7 @@
  
 - [SaveModel](#SaveModel)
 
+- [Test Submission](#Test Submission)
 ```python
 import torch 
 import random
