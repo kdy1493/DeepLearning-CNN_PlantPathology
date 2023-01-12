@@ -14,7 +14,8 @@
   - 데이터 훑어보기
   - 시각화
   - [Combination of flags](#combination-of-flags)
-- [Create Model](#Create Model)
+- [DataSet](#DataSet)
+- [Create Model](#DataSet)
 - [Compile Model](#Create Compile)
 - [Training Model](#Training Model)
 - [Evaluate Model](#Evaluate Model)
