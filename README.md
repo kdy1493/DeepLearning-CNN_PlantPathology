@@ -605,7 +605,7 @@ testloader = DataLoader(dataset_test, batch_size=batch_size,
                          generator=g, num_workers=2)
 ```
 
-# Create Model
+# CreateModel
 
 > EfficientNet-B07
 
@@ -663,7 +663,7 @@ model = model.to(device)
       0%|          | 0.00/97.8M [00:00<?, ?B/s]
 
 
-# Model Compile
+# ModelCompile
 
 
 ```python
@@ -677,7 +677,7 @@ optimizer = torch.optim.AdamW(model.parameters(), lr=0.00006, weight_decay=0.000
 scheduler = optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', patience=7, factor=0.1, verbose=True)
 ```
 
-# Training Model
+# TrainingModel
 
 
 ```python
@@ -939,7 +939,7 @@ train(model, epochs, criterion, optimizer)
     
     
 
-# Save Model
+# SaveModel
 
 
 ```python
