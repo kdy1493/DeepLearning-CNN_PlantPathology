@@ -1,5 +1,7 @@
 # PlantPathology(DeepLearning & CNN 활용)
 > Kaggle 경진대회 Plant Pathology 2020 - FGVC7
+<img width="80%" src="https://user-images.githubusercontent.com/116260619/211987672-fa454b9a-14b4-40a1-8818-d1058959bae0.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/116260619/211987468-971f6824-1916-43fd-a1f1-db747f375fd0.png"/>
 # 팀원
 - 고석주
 - 남정우
