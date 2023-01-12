@@ -18,13 +18,11 @@
 - [EDA](#EDA)
   - 데이터 훑어보기
   - 시각화
-  - [Combination of flags](#combination-of-flags)
 - [DataSet](#DataSet)
-- [Create Model](#DataSet)
-- [Compile Model](#DataSet)
-- [Training Model](#DataSet)
-- [Evaluate Model](#DataSet)
-- [Save Model](#DataSet)
+- [Create Model](#Create Model)
+- [Compile Model](#Compile Model)
+- [Training Model](#Training Model)
+- [Save Model](#Save Model)
 
 ```python
 import torch 
