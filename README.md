@@ -36,7 +36,7 @@
  
 - [SaveModel](#SaveModel)
 
-- [TestSubmission](#Test Submission)
+- [TestSubmission](#TestSubmission)
 ```python
 import torch 
 import random
@@ -1145,7 +1145,7 @@ model.state_dict().keys()
 torch.save(model, f'./model.pt')
 ```
 
-# Test Submission
+# TestSubmission
 
 
 ```python
