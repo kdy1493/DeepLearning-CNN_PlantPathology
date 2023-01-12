@@ -21,8 +21,11 @@
 - [EDA](#EDA)
   - 데이터 훑어보기
   - 시각화
-  - 
+
 - [DataSet](#DataSet)
+
+
+- [DataProcessing](#DataProcessing)
 
 
 - [CreateModel](#CreateModel)
@@ -477,7 +480,7 @@ ax.set_title(3, fontsize = 20)
     
 
 
-# 데이터 전처리
+# DataPreprocessing
 
 
 ```python
