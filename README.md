@@ -15,20 +15,25 @@
   - 데이터 다운로드
   - 데이터 불러오기
   - 데이터 적재
-  - 
+
+
 - [EDA](#EDA)
   - 데이터 훑어보기
   - 시각화
   - 
 - [DataSet](#DataSet)
-- 
-- [Create Model](#Create Model)
-- 
-- [Compile Model](#Compile Model)
-- 
-- [Training Model](#Training Model)
-- 
-- [Save Model](#Save Model)
+
+
+- [CreateModel](#CreateModel)
+
+
+- [CompileModel](#CompileModel)
+
+
+- [TrainingModel](#TrainingModel)
+
+ 
+- [SaveModel](#SaveModel)
 
 ```python
 import torch 
