@@ -462,7 +462,7 @@ ax = fig.add_subplot(2, 2, 4)
 ax.imshow(im_scab)
 ax.set_title(3, fontsize = 20)
 ```
-<img  src="https://user-images.githubusercontent.com/116260619/212005250-fd307deb-bc73-47cf-a48f-8c73371e8a18.png.png"/>
+<img  src="https://user-images.githubusercontent.com/116260619/212005250-fd307deb-bc73-47cf-a48f-8c73371e8a18.png"/>
 
 
 
@@ -471,9 +471,6 @@ ax.set_title(3, fontsize = 20)
 
 
 
-    
-![png](output_20_1.png)
-    
 
 
 # DataPreprocessing
