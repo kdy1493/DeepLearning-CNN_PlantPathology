@@ -36,7 +36,7 @@
  
 - [SaveModel](#SaveModel)
 
-- [Test Submission](#Test Submission)
+- [TestSubmission](#TestSubmission)
 ```python
 import torch 
 import random
