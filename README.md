@@ -402,10 +402,9 @@ ax2.axis('equal')
 
 plt.show()
 ```
-<img  src="https://user-images.githubusercontent.com/116260619/212005231-13f51be8-b2f1-49d9-9abf-fbff66606f86.png.png"/>
+<img  src="https://user-images.githubusercontent.com/116260619/212005231-13f51be8-b2f1-49d9-9abf-fbff66606f86.png"/>
 
-    
-![png](output_17_0.png)
+ 
     
 
 
@@ -437,9 +436,6 @@ show_image(last_healthy_img_ids)
 ```
 <img  src="https://user-images.githubusercontent.com/116260619/212005243-8ee72989-b7d5-4a6e-9089-a12a295078b1.png"/>
 
-    
-![png](output_19_0.png)
-    
 
 
 
